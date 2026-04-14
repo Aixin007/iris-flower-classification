@@ -27,3 +27,8 @@ Classify iris flowers into 3 species: Setosa, Versicolor, Virginica
 - Day 12: Cross-validation
 - Day 13: Hyperparameter tuning
 - Day 14: Week 2 review
+
+## Week 2 — 3 Core Features to Implement
+1. KNN Classifier — train, predict, evaluate accuracy
+2. Decision Tree Classifier — train, predict, visualize the tree
+3. SVM Classifier — train, predict, compare with others
