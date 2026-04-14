@@ -42,3 +42,13 @@ Classify iris flowers into 3 species: Setosa, Versicolor, Virginica
 - Day 19: Final model selection & export with joblib
 - Day 20: UI or prediction script for demo
 - Day 21: Week 3 review
+
+## Week 4 Plan — Deployment & Submission
+
+- Day 22: Export final model with joblib
+- Day 23: Final code cleanup & documentation
+- Day 24: Record demo video (3-5 mins)
+- Day 25: Write 100+ word submission description
+- Day 26: Final README polish
+- Day 27: Final commit push (28+ total)
+- Day 28: Submit project & certificate!
