@@ -108,6 +108,12 @@ print("\n" + "🌸" * 20)
 print("   IRIS FLOWER CLASSIFIER")
 print("🌸" * 20)
 
+print("\n💡 EXAMPLE MEASUREMENTS TO TRY:")
+print("   Setosa:     [5.1, 3.5, 1.4, 0.2]")
+print("   Versicolor: [6.2, 2.9, 4.3, 1.3]")
+print("   Virginica:  [7.3, 2.9, 6.3, 1.8]")
+print("   Format: [SepalLength, SepalWidth, PetalLength, PetalWidth]")
+
 # Test all states
 print("\n📋 RUNNING DEMO PREDICTIONS:")
 predict_flower(5.1, 3.5, 1.4, 0.2)   # Setosa
