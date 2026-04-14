@@ -71,5 +71,8 @@ Python, scikit-learn, pandas, seaborn, matplotlib, Jupyter, joblib
 | Decision Tree | ~97% | ~95% |
 | SVM | ~98% | ~97% |
 
+## 🚀 Live Demo
+👉 https://qzxznd2g3ay3q8dmbqgguj3.streamlit.app
+
 ## GitHub
 https://github.com/Aixin007/iris-flower-classification
