@@ -18,3 +18,12 @@ Classify iris flowers into 3 species: Setosa, Versicolor, Virginica
 - Week 2: Model building
 - Week 3: Evaluation & visualizations
 - Week 4: Final touches & submission
+
+## Week 2 Plan (Updated)
+- Day 8: Implement KNN model
+- Day 9: Implement Decision Tree
+- Day 10: Implement SVM
+- Day 11: Compare all 3 models
+- Day 12: Cross-validation
+- Day 13: Hyperparameter tuning
+- Day 14: Week 2 review
