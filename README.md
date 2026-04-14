@@ -71,8 +71,19 @@ Python, scikit-learn, pandas, seaborn, matplotlib, Jupyter, joblib
 | Decision Tree | ~97% | ~95% |
 | SVM | ~98% | ~97% |
 
+## Live Deployment Feedback
+
+**Tester:** My Mum
+**Platform tested on:** Edge (Streamlit Cloud)
+
+### Feedback:
+- Sounds really calming and a venture for part-time explorers!
+
+### Any fixes needed:
+- yes: "Show a picture of the flower species when prediction appears"
+
 ## 🚀 Live Demo
-👉 https://qzxznd2g3ay3q8dmbqgguj3.streamlit.app
+👉 https://qzxznd2g3ay3q8dmbqguj3.streamlit.app/
 
 ## GitHub
 https://github.com/Aixin007/iris-flower-classification

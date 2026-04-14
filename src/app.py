@@ -15,16 +15,16 @@ import random
 
 SPECIES_IMAGES = {
     'Iris-setosa': [
-        "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Kosaciec_szczecinkowaty_Iris_setosa.jpg/440px-Kosaciec_szczecinkowaty_Iris_setosa.jpg",
-        "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Irissetosa1.jpg/440px-Irissetosa1.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/5/56/Kosaciec_szczecinkowaty_Iris_setosa.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/a/a7/Irissetosa1.jpg",
     ],
     'Iris-versicolor': [
-        "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Iris_versicolor_3.jpg/440px-Iris_versicolor_3.jpg",
-        "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Blue_Flag%2C_Ottawa.jpg/440px-Blue_Flag%2C_Ottawa.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/4/41/Iris_versicolor_3.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/2/27/Blue_Flag%2C_Ottawa.jpg",
     ],
     'Iris-virginica': [
-        "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Iris_virginica.jpg/440px-Iris_virginica.jpg",
-        "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Iris_virginica_2.jpg/440px-Iris_virginica_2.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/9/9f/Iris_virginica.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/f/f8/Iris_virginica_2.jpg",
     ],
 }
 
