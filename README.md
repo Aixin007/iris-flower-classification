@@ -7,7 +7,7 @@ A machine learning web app that classifies iris flowers into three species — *
 **Duration:** 4 Weeks  
 
 ## 🚀 Live Demo
-👉 **[Click here to try the app!](https://frmcovbmwyvrxxp7bdfdbh.streamlit.app)**
+👉 **[Click here to try the app!](https://gifitmakgqcxueq5z5o3b6.streamlit.app/)**
 
 ---
 
